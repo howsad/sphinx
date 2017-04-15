@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sphinx-db-api" />
+        <module name="sphinx-db-impl" />
+        <module name="sphinx-model" />
+        <module name="sphinx-services-api" />
+        <module name="sphinx-services-impl" />
+        <module name="sphinx-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sphinx" target="1.5" />
+      <module name="sphinx-db" target="1.5" />
+      <module name="sphinx-db-api" target="1.5" />
+      <module name="sphinx-db-impl" target="1.5" />
+      <module name="sphinx-model" target="1.5" />
+      <module name="sphinx-services" target="1.5" />
+      <module name="sphinx-services-api" target="1.5" />
+      <module name="sphinx-services-impl" target="1.5" />
+      <module name="sphinx-web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

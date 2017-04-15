@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sphinx.iml" filepath="$PROJECT_DIR$/sphinx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sphinx-db/sphinx-db.iml" filepath="$PROJECT_DIR$/sphinx-db/sphinx-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sphinx-db/sphinx-db-api/sphinx-db-api.iml" filepath="$PROJECT_DIR$/sphinx-db/sphinx-db-api/sphinx-db-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sphinx-db/sphinx-db-impl/sphinx-db-impl.iml" filepath="$PROJECT_DIR$/sphinx-db/sphinx-db-impl/sphinx-db-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sphinx-model/sphinx-model.iml" filepath="$PROJECT_DIR$/sphinx-model/sphinx-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sphinx-services/sphinx-services.iml" filepath="$PROJECT_DIR$/sphinx-services/sphinx-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sphinx-services/sphinx-services-api/sphinx-services-api.iml" filepath="$PROJECT_DIR$/sphinx-services/sphinx-services-api/sphinx-services-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sphinx-services/sphinx-services-impl/sphinx-services-impl.iml" filepath="$PROJECT_DIR$/sphinx-services/sphinx-services-impl/sphinx-services-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sphinx-web/sphinx-web.iml" filepath="$PROJECT_DIR$/sphinx-web/sphinx-web.iml" />
+    </modules>
+  </component>
+</project>
